@@ -1,1 +1,1 @@
-# h21-map-google-label
+# h21-map-google-marker-label
